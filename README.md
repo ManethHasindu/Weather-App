@@ -90,15 +90,6 @@ cd app/Backend
 npm install
 ```
 
-Create a `.env` file using the `.env.example`:
-
-```
-PORT=3001
-WEATHER_API_KEY=your_openweathermap_api_key
-AUTH0_DOMAIN=your-auth0-domain
-AUTH0_AUDIENCE=your-auth0-audience
-```
-
 Start the backend server:
 
 ```bash
