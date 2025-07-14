@@ -75,7 +75,6 @@ app/
 ### Prerequisites
 
 - Node.js and npm installed
-- OpenWeatherMap API Key
 - Auth0 account with:
   - Allowed callback URLs set to `http://localhost:3000`
   - MFA enabled
