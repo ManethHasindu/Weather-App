@@ -124,5 +124,3 @@ Software Engineer Intern Applicant
 ## License
 
 This project is submitted for evaluation as part of the Fidenz internship recruitment process and is not intended for commercial or production use.
-README_clean.md
-Displaying README_clean.md.
