@@ -116,7 +116,7 @@ Visit the application at [http://localhost:3000](http://localhost:3000)
 ## Author
 
 Submitted by:  
-**[Maneth Pankaja Hasindu]**  
+**Maneth Pankaja Hasindu**  
 Software Engineer Intern Applicant  
 
 ---
