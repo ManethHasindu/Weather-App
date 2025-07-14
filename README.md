@@ -93,7 +93,7 @@ npm install
 Start the backend server:
 
 ```bash
-npm start
+npm run dev
 ```
 
 ### Frontend Setup
@@ -101,6 +101,11 @@ npm start
 ```bash
 cd app/Frontend
 npm install
+```
+
+Start the frontend server:
+
+```bash
 npm start
 ```
 
